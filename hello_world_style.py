@@ -1,5 +1,6 @@
-# Created by Kevin
-# Sept 14, 2022
+# !/user/bin/env python3
+# Created by Kevin Csiffary
+# Date: Sep. 14, 2022
 # This program prints "Hello, World!" and has comments
 
 def main():
